@@ -1,4 +1,4 @@
-# <a href='https://mini-food-app-react.vercel.app/'>Mini food app react</a>
+# <a href='https://mini-food-app-react.vercel.app/' target='_blank'>Mini food app react</a>
 
 ## Learnings:
 
