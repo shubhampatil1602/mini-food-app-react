@@ -13,6 +13,7 @@
 - **Cart Page**: Created a separate page to display the items in the shopping cart.
 - **Total Cart Summary**: Displayed the total summary of items in the shopping cart, including the total price.
 - **Increase/Decrease/Delete Quantity**: Implemented functionality to increase, decrease, and delete item quantities in the shopping cart.
+- **From Validation**
 
 # React + Vite
 
